@@ -1,6 +1,6 @@
 #computer vision 실습
 #opencv lib을 이용해 영상을 입출력하고 인공지능에서 많이 사용되는 numpy와 matplotlib를 이용
-#colab 코드 가져옴 
+#colab 코드 가져옴
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
